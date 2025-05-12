@@ -1,8 +1,8 @@
-﻿using ALevelBlazorTemplate.Model;
+﻿using MyProject.Model;
 using Microsoft.AspNetCore.Identity;
 using System.Security.Claims;
 
-namespace ALevelBlazorTemplate.Components.Account
+namespace MyProject.Components.Account
 {
     public static class AccountRouteExtensions
     {

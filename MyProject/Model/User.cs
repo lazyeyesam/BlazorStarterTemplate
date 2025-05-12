@@ -1,6 +1,6 @@
 ﻿using Microsoft.AspNetCore.Identity;
 
-namespace ALevelBlazorTemplate.Model
+namespace MyProject.Model
 {
     public class User : IdentityUser
     {

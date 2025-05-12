@@ -1,7 +1,7 @@
-﻿using ALevelBlazorTemplate.Model;
+﻿using MyProject.Model;
 using Microsoft.AspNetCore.Identity;
 
-namespace ALevelBlazorTemplate.Components.Account
+namespace MyProject.Components.Account
 {
     internal sealed class IdentityUserAccessor(UserManager<User> userManager, IdentityRedirectManager redirectManager)
     {

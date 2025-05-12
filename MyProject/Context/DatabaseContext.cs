@@ -1,8 +1,8 @@
-﻿using ALevelBlazorTemplate.Model;
+﻿using MyProject.Model;
 using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
 
-namespace ALevelBlazorTemplate.Context
+namespace MyProject.Context
 {
     public class DatabaseContext : IdentityDbContext<User>
     {

@@ -1,7 +1,7 @@
-using ALevelBlazorTemplate.Components;
-using ALevelBlazorTemplate.Components.Account;
-using ALevelBlazorTemplate.Context;
-using ALevelBlazorTemplate.Model;
+using MyProject.Components;
+using MyProject.Components.Account;
+using MyProject.Context;
+using MyProject.Model;
 using Microsoft.AspNetCore.Components.Authorization;
 using Microsoft.AspNetCore.Identity;
 
